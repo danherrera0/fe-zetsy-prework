@@ -6,7 +6,9 @@
 	src: url(fonts/Baskerville.ttc);
 }
 /*////////// Global Styles //////////*/
-
+*{
+	box-sizing: border-box;
+}
 body {
 	background: #F3EBE9;
 	font-size: 100%;
